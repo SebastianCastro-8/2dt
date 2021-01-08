@@ -1,4 +1,8 @@
 # 2dt
-Proyecto 2dt
+Documentacion de 2dt
 
-Codigo fuente de pagina web de 2dt
+Documentos bases de 2dt 
+*Fotos
+*Videos
+*Links
+
